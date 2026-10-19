@@ -1,4 +1,4 @@
-# SGFI: Stage-wise Gated Forensic Prior Injection for Image Manipulation Localization
+# TraceFIC: Trace-preserving Forensic Feature Injection and Conditioning for Image Manipulation Localization
 
 This repository contains the official implementation of the paper:
 
